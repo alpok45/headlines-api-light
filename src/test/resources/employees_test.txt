@@ -1,0 +1,4 @@
+4,Name4,JP,full time employee,SALES
+2,Name2,BR,consultant,SALES
+1,Name1,GB,full time employee,IT
+3,Name3,US,business partner,PR
